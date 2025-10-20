@@ -22,7 +22,7 @@ I'm a **Junior Web Developer** passionate about building modern and efficient we
 ---
 
 ### Featured Projects
-- [Website Pendaftaran Siswa Baru (PSB)](Link Repo PSB)
+- [Website Pendaftaran Siswa Baru (PSB)](https://github.com/afifismail01/web-sekolah-1)
   A web-based school admission system built with Laravel Blade, Filament, and TailwindCSS.  
   Features include student registration, WhatsApp notifications via Fonnte API, and Edupay payment integration.
 
