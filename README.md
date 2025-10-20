@@ -13,11 +13,11 @@ I'm a **Junior Web Developer** passionate about building modern and efficient we
 ---
 
 ### Tech Stack
-**Frontend:** HTML • CSS • Bootstrap •  TailwindCSS • Alpine.js • Lucide
-**Backend:** PHP • Laravel • Filament • CodeIgniter
-**Database:** MySQL 
-**Version Control:** Git & GitHub 
-**Tools:** Figma • Canva • VS Code
+- **Frontend:** HTML • CSS • Bootstrap •  TailwindCSS • Alpine.js • Lucide
+- **Backend:** PHP • Laravel • Filament • CodeIgniter
+- **Database:** MySQL 
+- **Version Control:** Git & GitHub 
+- **Tools:** Figma • Canva • VS Code
 
 ---
 
